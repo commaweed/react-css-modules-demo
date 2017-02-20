@@ -1,17 +1,17 @@
 .table,
 .row {
-    margin: 10px; overflow: hidden;
+	 margin: 10px; overflow: hidden;
 }
 
 .row {
-    border: 10px solid #0f0;
+	 border: 10px solid #0f0;
 }
 
 .table {
-    border: 10px solid #000;
-    width: 800px;
+	 border: 10px solid #000;
+	 width: 800px;
 }
 
 .cell {
-    float: left; width: 154px; background: #bbb; padding: 10px; margin: 10px 0 10px 10px;
+	 float: left; width: 154px; background: #bbb; padding: 10px; margin: 10px 0 10px 10px;
 }
